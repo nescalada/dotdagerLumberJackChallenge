@@ -14,16 +14,15 @@
 
 ![image](https://github.com/user-attachments/assets/70554c75-4b80-45de-aabd-be59969baafa)
 
-
 ## Initial W3 template
 
 - [Parallax theme](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_parallax)
 
-## Finish design (~5h)
+## Finished design (~5h)
 
 ![{EDE3A4DC-3C2F-4A5A-9CDB-B053089689F2}](https://github.com/user-attachments/assets/1f2633b2-6598-4e50-a435-89f5bb9b9946)
 
-- [Dot Dager nescalada web site](https://framework7.io/docs/)
+- [WEB SITE](https://dotdagerlumberjackchallenge.onrender.com/)
 
 ## Used technologies
 
