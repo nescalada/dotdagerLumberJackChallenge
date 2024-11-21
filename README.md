@@ -12,7 +12,7 @@
 
 ## Initial non-Figma design
 
-![image](https://github.com/user-attachments/assets/70554c75-4b80-45de-aabd-be59969baafa)
+![image](https://github.com/user-attachments/assets/1f12f64a-27ca-4f80-ac65-9985fffb497e)
 
 ## Initial W3 template
 
