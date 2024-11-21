@@ -21,6 +21,8 @@
 
 ## Finish design (~5h)
 
+![{27D44CD6-80C3-44A1-9CA2-EA7CA507C094}](https://github.com/user-attachments/assets/78b2c810-445e-4c65-a3c9-81c5d86a29fa)
+
 - [Dot Dager nescalada web site](https://framework7.io/docs/)
 
 ## Used technologies
