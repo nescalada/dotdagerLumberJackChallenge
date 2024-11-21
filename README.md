@@ -1,4 +1,4 @@
-# Dot Dager lumberjack challenge
+# Dot Dager LumberJack Cucumbers challenge
 
 # Directives
 
